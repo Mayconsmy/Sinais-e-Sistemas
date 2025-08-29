@@ -1,2 +1,2 @@
 # Sinais-e-Sistemas
-Este Repositorio é destinado a resolução das questões problemas ministradas na disciplina de sinais e sistemas pelo professor Pedro Thiago Valerio de Souza ultilizando a linguagem python.
+Este Repositorio é dedicado a resolução das questões problemas ministradas na disciplina de sinais e sistemas pelo professor Pedro Thiago Valerio de Souza ultilizando a linguagem python.
